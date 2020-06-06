@@ -1,5 +1,5 @@
 import React from 'react'
-import encryption from './encryption';
+import encryption from "@malcolmtomisin/react-native-rave/library/encryption";
 import Axios from 'axios';
 
 export default class RavePayment {

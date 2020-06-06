@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { Icon } from 'react-native-elements'
-import Header from '../Header';
 
 export default class MpesaHeader extends Component {
     constructor(props) {
