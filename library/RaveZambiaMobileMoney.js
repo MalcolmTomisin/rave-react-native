@@ -1,5 +1,5 @@
 import React from 'react'
-import encryption from 'react-native-rave/library/encryption';
+import encryption from '../library/encryption';
 import Axios from 'axios';
 
 export default class RaveUgandaMobileMoney {
