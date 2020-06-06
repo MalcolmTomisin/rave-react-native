@@ -21,5 +21,8 @@
     "react-native-elements": "^1.1.0",
     "react-navigation": "^3.0.9",
     "react-native-keyboard-aware-scroll-view": "^0.8.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@malcolmtomisin"
   }
 }
