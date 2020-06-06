@@ -1,12 +1,12 @@
 {
   "name": "react-native-rave",
   "main": "Rave.js",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "author": "Oluwole Adebiyi, Tofunmi Kupoluyi, Yusuf Jolaoso, Anjola Bassey, Flutterwave Developers",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flutterwave/rave-react-native"
+    "url": "https://github.com/MalcolmTomisin/rave-react-native"
   },
   "dependencies": {
     "axios": "^0.18.0",
@@ -19,8 +19,8 @@
     "react": "16.3.1",
     "react-native": "~0.55.2",
     "react-native-elements": "^1.1.0",
-    "react-navigation": "^3.0.9",
-    "react-native-keyboard-aware-scroll-view": "^0.8.0"
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-navigation": "^3.0.9"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@malcolmtomisin"
